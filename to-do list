@@ -1,0 +1,29 @@
+Features for BC!
+
+1. Leakage part
+3. bill per month for particular user
+4. security
+5. sidechain
+
+extra
+
+1. Limit for users
+
+DONE
+
+1. variation of VM-11
+2. usage for particular user
+3. limit setting
+4. prompting for gas billing
+5. ngrok (Port Forwarding)
+
+
+Modified
+
+port numbers
+
+BC - 5000
+interface - 8000
+payment - 5050
+smart contract - 8080
+vm-1 - 5005
